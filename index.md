@@ -1,6 +1,7 @@
 # Security digests
 Daily security intelligence digest. Telecom-focused.
 
+- [2026-07-03](digests/2026-07-03.md)
 - [2026-07-02](digests/2026-07-02.md)
 - [2026-07-01](digests/2026-07-01.md)
 - [2026-06-30](digests/2026-06-30.md)
